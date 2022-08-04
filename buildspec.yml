@@ -1,6 +1,6 @@
 version: 0.2
-env:
-  parameter-store:
+#env:
+ # parameter-store:
  #   CDN_ID: "Cloudfront_Invalid"
  #   S3_BUCKET: "S3Bucket"
 
